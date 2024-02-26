@@ -1,0 +1,21 @@
+SQL - Structured Query Language
+
+DDL - Data Definition Language
+	x- Database Create
+	x- Database Drop
+	- Databaes Rename
+	
+	- Table Create
+	- Table Drop
+	- Table Rename
+	- Column Add 
+	- Column Remove
+	- Column Modify
+	
+	
+	
+DML - Data Manupulation Language
+	- Data Create into Table
+	- Data Read
+	- Data Update
+	- Data Delete
